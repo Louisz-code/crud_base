@@ -40,3 +40,5 @@ class User extends Authenticatable
         return $this->nivel_acesso === 2;
     }
 }
+
+//opa
